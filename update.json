@@ -1,5 +1,5 @@
 {
-    "on-maintenance": false,
+    "on-maintenance": true,
     "current-version": 1.0,
     "surported-version": 1.0
 }
